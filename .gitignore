@@ -1,2 +1,4 @@
 *.dat
 notebooks/.ipynb_checkpoints/*
+
+venv/
